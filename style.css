@@ -1,0 +1,201 @@
+body{
+    background-image: url(button.svg);
+}
+.navbar{
+    height: 60px;
+    width: 80%;
+    margin-left: 10%;
+    color: white;
+    display: flex;
+    background-color: purple;
+    justify-content: space-evenly;
+}
+
+.navlogo{
+    background-image: url(byjus_logo\ \(1\).svg);
+    height: 25px;
+    width: 90px;
+    margin-top: 15px;
+    background-size:contain ;
+    background-repeat: no-repeat;
+}
+.studymat{
+    height: 25px;
+    width: 120px;
+    color: rgb(255, 196, 0);
+    display: flex;
+    font-size: 12px;
+   margin-top: 20px;
+}
+.icon{
+    margin-left: 3px;
+}
+.logbtn{
+    height: 30px;
+    width: 120px ;
+    display: flex;
+}
+.button1{
+    height:30px; 
+    width: 60px;
+    margin-top: 12px;
+    padding: 7px 8px 20px 8px ;
+    background-color: purple;
+    color:rgb(255, 196, 0);
+    border-radius: 4px ;
+    border: 1px solid rgb(255, 196, 0);
+}
+.logo{
+    display: flex;
+    margin-left: 5px;
+    height:40px; 
+    color: rgb( 255 ,  196 , 0);
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.logo1{
+    margin-left: 5px;
+    margin-top: 0;
+}
+
+.main{
+    background-image: url(byjus\ home.webp);
+    background-size: contain;
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+.cred{
+    height: 530px;
+    width: 450px;
+    background-color:#fff;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    text-align: center;
+    float: right;
+    margin-top: 60px;
+    margin-right: 100px;
+    padding: 0 15px 0 15px;
+    border-radius: 8px 8px 8px 8px ;
+}
+h5{
+    color: #666666;
+    margin-top: 3px;
+}
+h2{
+    font-weight: 700;
+    margin-top: 8px;
+}
+.btn{
+    width: 49%;
+    height: 15px;
+    color: black;
+    border: 1px solid #666666;
+    font-weight: 300;
+    padding: 10px 0 10px 0;
+    border-radius: 4px 4px 4px 4px ;
+
+}
+.btn1{
+    width: 49%;
+    font-weight: 300;
+
+    height: 15px;
+    color: black;
+    border: 1px solid #666666;
+    padding: 10px 0 10px 0;
+    border-radius: 4px 4px 4px 4px ;
+ margin-left: 4px;
+
+
+}
+.button{
+    display: flex;
+}
+.name{
+    height: 10px;
+    width: 80%;
+    padding: 15px 10px 15px 10px;
+    border: 1px solid #333;
+    outline: none;
+    border-radius: 5px;
+    color: #666666;
+    align-items: center;
+    justify-content: center;
+}
+.mob{
+    display: flex;
+    width: 450px;
+}
+.phn{
+    height: 10px;
+    width: 60%;
+    padding: 15px 10px 15px 10px;
+    border: 1px solid #333;
+    outline: none;
+    margin-top: 10px;
+    border-radius: 4px 0 0 4px;
+    margin-left: 35px;
+    color: #666666;
+    align-items: center;
+    justify-content: center;
+}
+.button2{
+    height:10px; 
+    width:20% ;
+    padding: 15px 10px 25px 10px;
+    background-color: #5c72ff;
+    margin-top: 10px;
+    color:white;
+    border-radius: 0 4px 4px 0 ;
+    border: 1px solid #5c72ff;
+    text-align: center;
+    justify-content: center;
+}
+.em1{
+    height: 10px;
+    width: 80%;
+    padding: 15px 10px 15px 10px;
+    border: 1px solid #333;
+    outline: none;
+    border-radius: 5px;
+    color: #666666;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.st{
+    height: 10px;
+    width: 80%;
+    padding: 15px 10px 15px 10px;
+    border: 1px solid #333;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    color: #666666;
+    align-items: center;
+    justify-content: center;
+}
+.sb{
+    width: 450px;
+}
+.sb1{
+    height: 10px;
+    width: 80%;
+    padding: 15px 30px 25px 30px;
+    border: 1px solid #333;
+    outline: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    background-color: rgb(255, 128, 0);
+    color: white;
+    align-items: center;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 5px;
+}
